@@ -1,0 +1,11 @@
+/.env
+/.env.example
+/.venv
+/README.md
+/app
+/başlat.sh
+/data
+/durdur.sh
+/kurulum.sh
+/legal
+/scripts
